@@ -63,8 +63,8 @@ function getMove(_id)
 					//alert(id);
 					break;
 				}
-			}
 			if(l==9)
+			}
 				board+="-";
 		}
 	alert(board);
